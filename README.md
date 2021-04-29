@@ -1,6 +1,6 @@
 # CS372ChainOfResponsibility
 
-Code written for CS372 Final Exam
+Code written for CS372 Final Exam | Chain of Responsibility
 
 The Idea behind this code is that Customer chooses an ingredient/meal they want from the Cook, which then the Cook handles the food from the list/order that the Customer gave him; which results in the Cook reading the ingredients.
 
